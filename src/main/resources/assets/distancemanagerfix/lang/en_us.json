@@ -1,0 +1,13 @@
+{
+  "itemGroup.distancemanagerfix": "Example Mod Tab",
+  "block.distancemanagerfix.example_block": "Example Block",
+  "item.distancemanagerfix.example_item": "Example Item",
+
+  "distancemanagerfix.configuration.title": "Distance Manager Fix Configs",
+  "distancemanagerfix.configuration.section.distancemanagerfix.common.toml": "Distance Manager Fix Configs",
+  "distancemanagerfix.configuration.section.distancemanagerfix.common.toml.title": "Distance Manager Fix Configs",
+  "distancemanagerfix.configuration.items": "Item List",
+  "distancemanagerfix.configuration.logDirtBlock": "Log Dirt Block",
+  "distancemanagerfix.configuration.magicNumberIntroduction": "Magic Number Text",
+  "distancemanagerfix.configuration.magicNumber": "Magic Number"
+}
